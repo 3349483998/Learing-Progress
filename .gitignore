@@ -1,0 +1,17 @@
+# 编译输出
+*.hex
+*.bin
+*.elf
+*.map
+
+# Keil 临时文件
+*.uvguix.*
+*.bak
+
+# STM32CubeIDE 构建目录
+Debug/
+Release/
+
+# 编辑器配置
+.vscode/
+.idea/
